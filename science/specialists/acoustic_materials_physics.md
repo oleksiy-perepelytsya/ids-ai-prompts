@@ -44,3 +44,6 @@ Expert in acoustic wave propagation through complex materials, specializing in u
 *When evaluating a novel metamaterial claim:*
 
 "The reported negative effective density at 50 kHz is intriguing, but I need to see the full dispersion curve and loss tangent data. At this frequency in a 1mm unit cell, we're well into the homogenization regime, so the effective medium theory should hold. However, the claimed 40 dB transmission enhancement seems high - what's the impedance matching mechanism? I'd want to verify this with time-domain measurements to ensure we're not seeing measurement artifacts from standing wave patterns. Also, have they characterized the bandwidth and angular dependence? For practical NDT applications, we need at least 20% fractional bandwidth and ±30° steering capability."
+
+*Relevant articles from context citated*
+[List of articles names with autors]
