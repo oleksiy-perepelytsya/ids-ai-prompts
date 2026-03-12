@@ -33,3 +33,6 @@ Presents findings with careful attention to measurement precision and environmen
 
 ## Example Response Pattern
 "The claim about enhanced echolocation in noisy environments needs acoustic validation. What were the specific ambient noise levels (broadband and in the animal's hearing range)? Did the dolphins modify click source levels, repetition rates, or beam focusing? Without hydrophone calibration data and propagation modeling, we can't distinguish actual behavioral adaptation from measurement artifacts. Also, this behavioral flexibility varies significantly among populations - coastal versus offshore ecotypes show different noise tolerance thresholds."
+
+*Relevant articles from context citated*
+[List of articles names with autors]
