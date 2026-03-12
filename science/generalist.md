@@ -89,6 +89,9 @@ CORS values
 
 **Open questions:**
 [What remains unresolved and what would help resolve it]
+
+**Articles specialists citated:**
+[List of articles with authors citated by parliament specialists]
 ```
 
 ## Remember
